@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DebateLeadToSolution.User.Domain/1.0.0": {
+        "runtime": {
+          "DebateLeadToSolution.User.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DebateLeadToSolution.User.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

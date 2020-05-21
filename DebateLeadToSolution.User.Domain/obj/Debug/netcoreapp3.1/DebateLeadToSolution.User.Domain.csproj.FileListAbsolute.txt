@@ -1,0 +1,17 @@
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.deps.json
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.dll
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.pdb
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.csprojAssemblyReference.cache
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.AssemblyInfoInputs.cache
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.AssemblyInfo.cs
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.dll
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.pdb
+D:\DebateLeadToSolution.API\DebateLeadToSolution.User.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.deps.json
+D:\DebateLeadToSolution.API\DebateLeadToSolution.User.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.dll
+D:\DebateLeadToSolution.API\DebateLeadToSolution.User.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.pdb
+D:\DebateLeadToSolution.API\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.csproj.CoreCompileInputs.cache
+D:\DebateLeadToSolution.API\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.AssemblyInfoInputs.cache
+D:\DebateLeadToSolution.API\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.AssemblyInfo.cs
+D:\DebateLeadToSolution.API\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.dll
+D:\DebateLeadToSolution.API\DebateLeadToSolution.User.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.User.Domain.pdb

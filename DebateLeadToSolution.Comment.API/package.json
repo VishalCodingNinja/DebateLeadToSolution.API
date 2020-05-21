@@ -1,0 +1,14 @@
+{
+  "name": "debate-lead-to-solution.comment.api",
+  "version": "0.0.0",
+  "description": "DebateLeadToSolution.Comment.API",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": ""
+  }
+}

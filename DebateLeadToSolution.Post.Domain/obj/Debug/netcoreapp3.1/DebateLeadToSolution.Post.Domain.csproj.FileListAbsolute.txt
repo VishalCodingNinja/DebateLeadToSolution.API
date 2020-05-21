@@ -1,0 +1,16 @@
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.Post.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.deps.json
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.Post.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.dll
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.Post.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.pdb
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.AssemblyInfoInputs.cache
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.AssemblyInfo.cs
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.dll
+C:\Users\VISHAL_SINGH\source\repos\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.pdb
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Post.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.deps.json
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Post.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.dll
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Post.Domain\bin\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.pdb
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.csproj.CoreCompileInputs.cache
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.AssemblyInfoInputs.cache
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.AssemblyInfo.cs
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.dll
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Post.Domain\obj\Debug\netcoreapp3.1\DebateLeadToSolution.Post.Domain.pdb

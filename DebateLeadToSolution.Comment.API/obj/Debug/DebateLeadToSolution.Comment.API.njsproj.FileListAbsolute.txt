@@ -1,0 +1,2 @@
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Comment.API\obj\Debug\DebateLeadToSolution.Comment.API.njsproj.CoreCompileInputs.cache
+D:\DebateLeadToSolution.API\DebateLeadToSolution.Comment.API\bin\Microsoft.NodejsTools.WebRole.dll

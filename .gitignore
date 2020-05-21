@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DebateLeadToSolution.Post.API/obj
+/DebateLeadToSolution.Post.API/bin
+/DebateLeadToSolution.User.API/obj
+/DebateLeadToSolution.User.API/bin
