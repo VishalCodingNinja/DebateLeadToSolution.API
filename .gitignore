@@ -7,3 +7,8 @@
 /DebateLeadToSolution.Post.API/bin
 /DebateLeadToSolution.User.API/obj
 /DebateLeadToSolution.User.API/bin
+/Backup
+/DebateLeadToSolution.Comment.API/node_modules
+/DebateLeadToSolution.Comment.API/obj/Debug
+/DebateLeadToSolution.User.Domain/obj
+/DebateLeadToSolution.User.Post/obj
