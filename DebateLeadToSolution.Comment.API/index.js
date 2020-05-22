@@ -4,13 +4,29 @@ import mongoose from 'mongoose';
 import bodyParser from 'body-parser';
 import swaggerUi from 'swagger-ui-express'
 import * as swaggerDocument from './swagger.json';
-
+import swaggerJsDoc from 'swagger-jsdoc'
 
 
 
 const app=express();
 const PORT=4000;
-
+const swaggerOptions = {
+    swaggerDefinition: {
+      info: {
+        title: "Customer API",
+        description: "Customer API Information",
+        contact: {
+          name: "Amazing Developer"
+        },
+        servers: ["http://localhost:4000"]
+      }
+    },
+    // ['.routes/*.js']
+    apis: ["../DebateLeadToSolution.Comment.API/src/routes/commentRoutes.js"]
+  };
+  
+  const swaggerDocs = swaggerJsDoc(swaggerOptions);
+  app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
 
 //mongoose connection
@@ -25,7 +41,8 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json());
 
 //add swagger documentation
-app.use('/swagger', swaggerUi.serve, swaggerUi.setup(swaggerDocument));    
+//app.use('/api-docs',swaggerUi.serve,swagger.setup(swaggerDocs));
+//app.use('/swagger', swaggerUi.serve, swaggerUi.setup(swaggerDocument));    
 routes(app);
 
 //serving static files
