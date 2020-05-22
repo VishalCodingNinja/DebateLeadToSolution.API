@@ -2,7 +2,8 @@ import express from 'express';
 import routes from './src/routes/commentRoutes'
 import mongoose from 'mongoose';
 import bodyParser from 'body-parser';
-
+import swaggerUi from 'swagger-ui-express'
+import * as swaggerDocument from './swagger.json';
 
 
 
@@ -23,7 +24,8 @@ mongoose.connect('mongodb://localhost:27017/CommentDB',{
 app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json());
 
-
+//add swagger documentation
+app.use('/swagger', swaggerUi.serve, swaggerUi.setup(swaggerDocument));    
 routes(app);
 
 //serving static files

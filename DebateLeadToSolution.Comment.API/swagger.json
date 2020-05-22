@@ -1,0 +1,12 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+    "version": "1.0.0",
+    "title": "DebateLeadToSolution.Comment.API",
+    "description": "Its an simple microservice build on node.js that is being consumed by Micro-UI",
+    "license": {
+        "name": "MIT",
+        "url": "https://opensource.org/licenses/MIT"
+    }  
+}
+}
