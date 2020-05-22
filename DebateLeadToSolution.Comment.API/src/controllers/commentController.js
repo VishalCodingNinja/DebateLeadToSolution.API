@@ -13,3 +13,40 @@ export const addNewComment=(req,res)=>{
        res.json(comment);  
     });
 }
+
+
+
+export const getComments=(req,res)=>{
+    Comment.find({},(err,comment)=>{
+        if(err){
+            res.send(err);
+        }
+       res.json(comment);  
+    });
+}
+export const getCommentsByID=(req,res)=>{
+    Comment.findById(req.params.commentID,(err,comment)=>{
+        if(err){
+            res.send(err);
+        }
+       res.json(comment);  
+    });
+}
+
+export const updateComments=(req,res)=>{
+    Comment.findOneAndUpdate({_id:req.params.commentID},req.body, {new:true, useFindAndModify: false},(err,comment)=>{
+        if(err){
+            res.send(err);
+        }
+       res.json(comment);  
+    });
+}
+
+export const deleteComment=(req,res)=>{
+    Comment.findOneAndRemove({_id:req.params.commentID},(err,comment)=>{
+        if(err){
+            res.send(err);
+        }
+       res.json({message:'Sucessfully deleted'});  
+    });
+}
