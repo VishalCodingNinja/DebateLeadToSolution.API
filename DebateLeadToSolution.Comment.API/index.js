@@ -13,10 +13,10 @@ const PORT=4000;
 const swaggerOptions = {
     swaggerDefinition: {
       info: {
-        title: "Customer API",
-        description: "Customer API Information",
+        title: "DebateLeadToSolution.API.Comments",
+        description: "DebateLeadToSolution API Comments API",
         contact: {
-          name: "Amazing Developer"
+          name: "VishalCodingNinja"
         },
         servers: ["http://localhost:4000"]
       }
