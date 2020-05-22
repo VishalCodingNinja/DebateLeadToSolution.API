@@ -1,4 +1,4 @@
-import { mongoose  } from 'mongoose';
+var mongoose = require('mongoose');
 import { CommentSchema } from '../models/commentModel'
 const Comment= mongoose.model('Comment',CommentSchema);
 
