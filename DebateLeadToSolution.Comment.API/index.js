@@ -3,7 +3,6 @@ import routes from './src/routes/commentRoutes'
 import mongoose from 'mongoose';
 import bodyParser from 'body-parser';
 import swaggerUi from 'swagger-ui-express'
-import * as swaggerDocument from './swagger.json';
 import swaggerJsDoc from 'swagger-jsdoc'
 
 
